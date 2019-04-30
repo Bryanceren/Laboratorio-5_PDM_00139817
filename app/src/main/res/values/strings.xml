@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PokeDex</string>
+    <string name="movie_title_string">poke_name</string>
+    <string name="lorem_30_string">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam maximus fermentum lorem, nec bibendum ligula iaculis et. Cras semper eros a congue luctus. Integer porttitor ut mauris a aliquet. Pellentesque.</string>
+    <string name="movie_name_string">Pokemon Name</string>
+    <string name="n_a_value">N/A</string>
+</resources>
